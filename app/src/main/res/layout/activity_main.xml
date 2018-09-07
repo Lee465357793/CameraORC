@@ -26,6 +26,11 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"/>
+        <ImageView
+            android:id="@+id/image_d"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
     </LinearLayout>
 
    <Button
@@ -42,6 +47,12 @@
        android:textAllCaps="false"/>
    <Button
        android:id="@+id/btn_card_back"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="CardBack"
+       android:textAllCaps="false"/>
+   <Button
+       android:id="@+id/btn_bank_card"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="CardBack"
