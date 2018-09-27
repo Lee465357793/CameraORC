@@ -8,9 +8,7 @@ KChart for Android ；股票k线图
 
 * 相机样式  正反身份证，银行卡。
 <div class='row'>
-        <img src='' width="300px"/>
-        <img src='' width="300px"/>
-        <img src='' width="300px"/>
+        <img src='https://github.com/Lee465357793/CameraORC/blob/master/gif/HUAWEI-LLD-AL00-2018-09-07-14-26-57-1.gif' width="300px"/>
 </div>
 
 #### 配置及使用
