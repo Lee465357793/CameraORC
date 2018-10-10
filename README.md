@@ -1,7 +1,5 @@
 # CameraORC
 android ORC 相机样式
-# KChartView
-KChart for Android ；股票k线图
 
 效果预览
 -------  
